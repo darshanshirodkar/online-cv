@@ -76,6 +76,7 @@ education:
     - degree: BE in Electronics
       university: Mumbai University
       time: 2002 - 2006
+
 experiences:
     - role: Senior Data Scientist
       time: Jan 2021 - present
@@ -103,7 +104,7 @@ experiences:
         predicting risk of caridovascular risk based on various risk factors, and in scaling the algorithm implementation to millions of patient records
         using Pyspark.
         
-     - role: Data Science Manager
+    - role: Data Science Manager
       time: Sep 2015 - Oct 2017
       company: Adobe, Bangalore
       details: |
@@ -113,7 +114,7 @@ experiences:
         - Created a simulation environment for testing out various real time strategies for bidding in online auctions.
         - Improved efficiency of advertising spend  by building accurate cost/revenue models from aggregated data and developing bid optimization algorithms.
      
-     - role: Data Scientist
+    - role: Data Scientist
       time: June 2013 - Sep 2015
       company: Pubmatic, Pune
       details: |
@@ -124,7 +125,7 @@ experiences:
           data from billions of ad requests.
         - Designed linear programming based optimization algorithm for ensuring guaranteed advertising campaign delivery.
         
-     - role: Research Engineer
+    - role: Research Engineer
       time: Nov 2011 - Jun 2013
       company: TCS Innovation Lab, Pune
       details: |
