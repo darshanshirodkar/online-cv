@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Data Scientist, working at [Zendrive](https://www.zendrive.com). I have over 10 years of industry experience working in 
+      I am a Data Scientist, working at [Zendrive](https://www.zendrive.com). I have over 10 years of industry experience working in the areas of 
       machine learning, optimization and algorithms. I have a master's degree in Applied Mathematics from University of Illinois at Urbana-Champaign, 
       and a master's in Electrical Communication Engineering from Indian Institute of Science.
 education:
@@ -77,21 +77,14 @@ education:
       university: Mumbai University
       time: 2002 - 2006
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Data Scientist
+      time: Jan 2021 - present
+      company: Zendrive, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Zendrive is a telematics company that helps insurance companies to provide usage based and driving behaviour based insurance to customers. 
+        I work as the lead data scientist on the Public Transport Detection team. We develop algorithms based on map-matching and vehicular dynamics to classify
+        trips as "drive" vs "public transit".
+        
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
