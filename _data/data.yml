@@ -44,9 +44,6 @@ sidebar:
       - item: Cooking
         link:
 
-      - item: Reading
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -173,23 +170,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Statistics
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Optimization
+        level: 95%
+       
+      - name: Machine Learning
+        level: 90%
+        
+      - name: Reinforcement Learning
         level: 85%
+        
+      - name: Python & Pyspark
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Deep Learning
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
