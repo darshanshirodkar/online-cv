@@ -12,39 +12,39 @@ sidebar:
     avatar: darshan.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: darshanshirodkar@gmail.com
+    phone: +91-9665938646
+    # website: blog.webjeda.com #do not add http://
+    linkedin: darshan-shirodkar-7b670042
+    # xing: alandoe
+    # github: sharu725
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: German
+        level: A2 (Beginner)
 
-      - idiom: Spanish
-        level: Professional
+#       - idiom: Spanish
+#         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
+      - item: Chess
+        link: https://www.chess.com/member/darshan922
 
       - item: Cooking
+        link:
+
+      - item: Reading
         link:
 
 career-profile:
