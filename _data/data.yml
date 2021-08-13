@@ -92,9 +92,9 @@ experiences:
       details: |
         At Microsoft, I was part of the Bing Search Sponsored Ads team. We worked on ranking, allocation and pricing of sponsored search ads for all non-US markets.
           - Focused on enhancement of product ads experience for users with queries related to retail products on Bing Search. 
-          - Explored deep learning models for semantic similarity scores between queries and products.
-          - Realized AUC gains in click prediction models across many markets by incorporating counting based features.
           - Built a realtime algorithm for ads layout optimization using reinforcement learning.
+          - Performed ad-hoc data analyses to identify gaps in the product and generate project ideas for improvement.
+          - Carried out multiple root cause analyses to understand clients' (advertisers) concerns and created timely fixes.
           
     - role: Data Scientist - Freelance Consultant
       time: Feb 2018 - Nov 2018
