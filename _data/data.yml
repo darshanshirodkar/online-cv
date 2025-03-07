@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: darshanshirodkar@gmail.com
-    phone: +91-9665938646
+    phone: +1-437-237-6027
     # website: blog.webjeda.com #do not add http://
-    linkedin: darshan-shirodkar-7b670042
+    # linkedin: darshan-shirodkar-7b670042
     # xing: alandoe
     # github: sharu725
     # telegram: # add your nickname without '@' sign
@@ -79,11 +79,28 @@ education:
 
 experiences:
     - role: Senior Data Scientist
-      time: Jan 2021 - present
+      time: Jul 2022 - present
+      company: Shopify, Toronto
+      details: |
+        I have worked on various aspects of data engineering and data science.
+          - Collaborated with product team to generate insights about adoption, usage and performance of Shopify's product offerings.
+          - Ran A/B experiments to test new product features and various hypothesis.
+          - Modelled data and creating pipelines in Pyspark to serve analytical reports to Shopify's customers (business owners running ecommerce through Shopify).
+          - Migrated data pipelines from Spark to DBT running on Bigquery.
+    
+    - role: Senior Data Scientist
+      time: Jan 2021 - Jun 2022
       company: Zendrive, Bangalore
       details: |
         Zendrive is a telematics company that helps insurance companies to provide usage based and driving behaviour based insurance to customers. 
-        I work as the lead data scientist on the Public Transport Detection team. We develop algorithms based on map-matching and vehicular dynamics to classify
+        I worked as the lead data scientist on the Public Transport Detection team. We developed algorithms based on map-matching and vehicular dynamics to classify
+        trips as "car drive" vs "public transit".
+    - role: Senior Data Scientist
+      time: Jan 2021 - Jun 2022
+      company: Zendrive, Bangalore
+      details: |
+        Zendrive is a telematics company that helps insurance companies to provide usage based and driving behaviour based insurance to customers. 
+        I worked as the lead data scientist on the Public Transport Detection team. We developed algorithms based on map-matching and vehicular dynamics to classify
         trips as "car drive" vs "public transit".
         
     - role: Senior Data Scientist
@@ -191,8 +208,8 @@ skills:
       - name: Python & Pyspark
         level: 80%
 
-      - name: Deep Learning
-        level: 50%
+      - name: SQL
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
