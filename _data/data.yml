@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Data Scientist, working at [Zendrive](https://www.zendrive.com). I have over 10 years of industry experience working in the areas of 
+      I am a Data Scientist, working at Shopify. I have over 12 years of industry experience working in the areas of 
       machine learning, optimization and algorithms. I have a master's degree in Applied Mathematics from University of Illinois at Urbana-Champaign, 
       and a master's in Electrical Communication Engineering from Indian Institute of Science.
 education:
@@ -84,17 +84,10 @@ experiences:
       details: |
         I have worked on various aspects of data engineering and data science.
           - Collaborated with product team to generate insights about adoption, usage and performance of Shopify's product offerings.
-          - Ran A/B experiments to test new product features and various hypothesis.
-          - Modelled data and creating pipelines in Pyspark to serve analytical reports to Shopify's customers (business owners running ecommerce through Shopify).
+          - Ran A/B experiments to test new product features and various hypotheses.
+          - Modelled data and created pipelines in Pyspark to serve analytical reports to Shopify's customers (business owners running ecommerce through Shopify).
           - Migrated data pipelines from Spark to DBT running on Bigquery.
     
-    - role: Senior Data Scientist
-      time: Jan 2021 - Jun 2022
-      company: Zendrive, Bangalore
-      details: |
-        Zendrive is a telematics company that helps insurance companies to provide usage based and driving behaviour based insurance to customers. 
-        I worked as the lead data scientist on the Public Transport Detection team. We developed algorithms based on map-matching and vehicular dynamics to classify
-        trips as "car drive" vs "public transit".
     - role: Senior Data Scientist
       time: Jan 2021 - Jun 2022
       company: Zendrive, Bangalore
